@@ -1,0 +1,13 @@
+.signUpCard {
+  border-radius: 25px;
+  min-height: 75vh;
+}
+h5 {
+  color: red;
+  text-align: center;
+  position: relative;
+  top: 50px;
+}
+.signUpInput {
+  font-size: x-large;
+}
